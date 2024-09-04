@@ -1,0 +1,2 @@
+# Student
+ The **Student Database Management System** is a desktop application developed using Java Swing, offering a user-friendly interface to manage student records. It enables administrators to add, update, delete, and view student details like names, roll numbers, courses, and grades. The system uses MySQL for data storage, ensuring efficient management and retrieval of student data. Key features include search functionality and data validation, maintaining accurate records. 
